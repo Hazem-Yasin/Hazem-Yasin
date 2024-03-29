@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hazem-Yasin
-- 👀 I’m interested in dotnet and dotnet core
+- 👀 I’m interested in asp.net and asp.net core
 - 🌱 I’m currently learning dotnet and c#
 - 💞️ I’m looking to collaborate on open source projects
 
