@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Hazem-Yasin
-- 👀 I’m interested in asp.net and asp.net core
-- 🌱 I’m currently learning dotnet and c#
-- 💞️ I’m looking to share my work and collaborate on open source projects
+### Hi there 👋, Hope you are having a great week 
+#### I'm a .NET developer
+![I'm a software developer](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)
+#### I develop asp.net web applications and currently studying unity game development as I would love to make games using blender and C#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaziimYassien&show_icons=true&theme=transparent)
 
-<!---
-Hazem-Yasin/Hazem-Yasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
