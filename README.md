@@ -11,7 +11,7 @@
 <h2 align="center">TOOLS I USE </h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?   i=git,github,gitlab,azure,netlify,visualstudio,vscode,androidstudio,figma,html,css,sass,bootstrap,threejs,vite,angular,react,js,jquery,ts,postman,dotnet,cs,powershell,qt,docker,kubernetes,nodejs,npm,replit,neovim,vim,bash,linux,ubuntu,blender,godot,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,netlify,visualstudio,vscode,androidstudio,figma,html,css,sass,bootstrap,threejs,vite,angular,react,js,jquery,ts,postman,dotnet,cs,powershell,qt,docker,kubernetes,nodejs,npm,replit,neovim,vim,bash,linux,ubuntu,blender,godot,unity" />
 </p>
 
 <br/>
