@@ -1,52 +1,12 @@
-<h1 align="center">Hi 👋, I'm DEBORAJ ROY</h1>
-<h3 align="center">A passionate Asp.Net Core Developer and AWS solution architect from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm HAZEM YA-SIN</h1>
+<h3 align="center">I'm an Asp.Net Core Developer located in Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboraj-roy&label=Profile%20views&color=0e75b6&style=flat" alt="deboraj-roy" /> </p>
 
-<br/>
-
-<!-- about me -->
-<h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
-
-<br/>
 
 
 
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on [Ecommerce website](https://eticketby.azurewebsites.net/)
-
-- 🌱 I’m currently learning **ASP.NET Core MVC (.NET 8)**
-
-- 🤝 I'm searching for joint work.
-
-- 👨‍💻 All of my projects are available at [This GitHub](https://github.com/Deboraj-roy?tab=repositories)
-
-- 💬 Ask me about **AWS, HTML, C#, .NET**
-
-- 📫 How to reach me **deborajroy123@gmail.com**
-
-- My LinkedIn [Profile](https://www.linkedin.com/in/deboraj-roy/)
-
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/14vM9eUtif__q0ixn2jOGD-83HvYUjx2A/view?usp=sharing)
-
-- ⚡ **I enjoy watching movies and talking to people in my free time..**
-
-- Live: [CV](https://eclectic-taffy-2c73da.netlify.app/)
-
-- Live Projects 1: [Books store - Ecommerce website](https://bulkybookwebbydeb.azurewebsites.net/)
-- Live Projects 2: [eTicket - Ecommerce](https://eticketby.azurewebsites.net/)
-- Live Projects 3: [Movie Store](https://moviestoredr.azurewebsites.net/)
-
-
-<h3 align="center">
-  ✍️ Favorite Quote
-
-
-"Nobody else is going to do what you need to do."
-</h3>
 
 <!-- end about me -->
  
@@ -55,10 +15,10 @@
 
 
 <!-- language & tools -->
-<h2 align="center">🛠 Tools 🛠</h2>
+<h2 align="center">TOOLS I USE </h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea,linux,docker,matlab,ai" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,androidstudio,figma,html,css,sassbootstrap,threejs,vite,angular,react,js,jquery,ts,postman,dotnet,cs,powershell,qt,docker,kubernetes,netlify,nodejs,npm,replit,neovim,vim,bash,linux,ubuntu,blender,godot,unity" />
 </p>
 
 <br/>
