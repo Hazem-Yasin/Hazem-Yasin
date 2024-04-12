@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAZEM YA-SIN</h1>
 <h3 align="center">I'm an Asp.Net Core Developer located in Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deboraj-roy&label=Profile%20views&color=0e75b6&style=flat" alt="deboraj-roy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazem-Yasin&label=Profile%20views&color=0e75b6&style=flat" alt="deboraj-roy" /> </p>
 <!-- end about me -->
  
 <br/>
@@ -47,23 +47,4 @@
 
 
 </p>
-<!-- end github analytics 
-<br/>
-<br/>
-
-<!-- github profile trophy -->
-<h2 align="center"> :trophy: GitHub Profile Trophy :trophy: </h2>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hazem-Yasin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Deboraj Roy github profile trophy" />
-  </a>
-</p>
-
-<!-- end github profile trophy -->
-
-<br/>
-<br/>
 
