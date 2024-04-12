@@ -28,16 +28,11 @@
   
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazem-Yasin&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="Deboraj-roy most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazem-Yasin&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="Hazem-Yasin most used languages" />
 </p>
 
 <br/>
 
-
-<!--  There's nothing here, yet.
-
-[![Deboraj Roy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Deboraj-roy&&theme=xcode)](https://github.com/Deboraj-roy)
--->
 
 <br/>
 
