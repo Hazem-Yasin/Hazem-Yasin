@@ -30,3 +30,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazem-Yasin&langs_count=8&layout=compact&card_width=445&title_color=67e26d&text_color=ffffff&icon_color=67e26d&bg_color=003855&hide_border=true" alt="Hazem-Yasin most used languages" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Hazem-Yasin/Hazem-Yasin/output/github-contribution-grid-snake-new-dark.svg" alt="Hazem snake contribution grid snake" />
+</p>
