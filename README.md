@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HAZEM YA-SIN</h1>
 <h3 align="center">I'm an Asp.Net Core Developer located in Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hazem-Yasin&label=Profile%20views&color=0e75b6&style=flat" alt="deboraj-roy" /> </p>
 <!-- end about me -->
  
 <br/>
