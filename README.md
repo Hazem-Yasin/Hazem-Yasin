@@ -2,12 +2,7 @@
 <h3 align="center">I'm an Asp.Net Core Developer located in Egypt</h3>
 
 <!-- end about me -->
- 
 <br/>
-<br/>
-
-<br/>
- 
 <!-- github analytics -->
 <h2 align="center"> 📊 GitHub Analytics 📊 </h2>
 <br/>
